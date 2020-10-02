@@ -1,0 +1,29 @@
+.areaDetail button{
+    margin-left: 5px;
+}
+
+.containerDetailMaster{
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+#cardBodyy{
+    width: 900px;
+    max-width: 900px;
+    min-width: 80px;
+    height: auto;
+    color: #17a2b8;
+    
+}
+.detailMaster{
+    text-align-last: center;
+}
+.iconButton{
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+.buttonAdd{
+    margin-left: 50px;
+}
+.buttonCancel{
+    text-align: center;
+}
